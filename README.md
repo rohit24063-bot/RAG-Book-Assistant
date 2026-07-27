@@ -1,5 +1,7 @@
 # 📚 RAG Book Assistant
 
+🚀 **Live Demo:** (https://rag-book-assistant-sd4aqoarxyuvcamfikijpb.streamlit.app/)
+
 A Retrieval-Augmented Generation (RAG) application that allows users to upload PDF documents and ask questions about their content using LangChain, ChromaDB, Hugging Face Embeddings, Gemini, and Streamlit.
 
 ## Features
