@@ -6,6 +6,7 @@ langchain-community
 
 langchain-openai
 langchain-mistralai
+from langchain_huggingface import HuggingFaceEmbeddings
 openai
 mistralai
 
